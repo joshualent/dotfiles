@@ -1,0 +1,6 @@
+--target=~/.config
+--ignore=^home(/|$)
+--ignore=^setup\.sh$
+--ignore=^\.git(/|$)
+--ignore=^\.stowrc$
+
